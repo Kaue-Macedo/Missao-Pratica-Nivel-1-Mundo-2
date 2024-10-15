@@ -1,0 +1,12 @@
+.receitas-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.receita {
+    width: 200px;
+    border: 1px solid #e4881a;
+    padding: 10px;
+    border-radius: 5px;
+}

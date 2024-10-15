@@ -1,0 +1,23 @@
+.receitas-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.receita {
+    width: 300px;
+    border: 1px solid #e4881a;
+    padding: 10px;
+    border-radius: 5px;
+}
+.receita img {
+    
+  
+    width: 300px; /* Ajuste o valor conforme necessário */
+        height: auto; /* Mantém a proporção da imagem */
+      
+    display: block; /* Faz a imagem ser um bloco, se necessário */
+        
+    margin: 0 auto; /* Centraliza a imagem */
+    }
+    
